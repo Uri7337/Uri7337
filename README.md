@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Uri7337
 - 👀 I’m interested in games/gamemaking
-- 🌱 I’m currently learning Javascript/React
-- 💞️ I’m looking to collaborate on everything
+- 🌱 I’m currently learning Java
 - 📫 How to reach me - ondrasekuriasek@gmail.com
 
 <!---
