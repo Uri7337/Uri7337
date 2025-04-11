@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Uri
-- 👀 I’m interested in games/gamemaking
+- 👋 Hi, I’m Uri
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning Java
 - 📫 How to reach me - o.urie@seznam.cz
